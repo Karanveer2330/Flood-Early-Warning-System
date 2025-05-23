@@ -65,6 +65,7 @@ toDB(img): Converts natural units to dB.
 RefinedLee(img): Applies the Refined Lee speckle filter to reduce SAR noise.
 
 Parameters to update for your use case:
+
 ![image](https://github.com/user-attachments/assets/565e7278-dc5f-48e2-9337-0487ddfc5a10)
 
 
