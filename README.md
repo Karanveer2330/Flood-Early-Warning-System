@@ -57,6 +57,8 @@ Pre- and post-flood SAR images (raw and filtered)
 Initial and final flood extents
 The total area of the district and flooded area (in km²) will be printed in the Console.
 
+![image](https://github.com/user-attachments/assets/889f6741-c51b-461b-b0a4-5675f1711d42)
+
 Key Functions in the Script
 toNatural(img): Converts dB to natural units.
 toDB(img): Converts natural units to dB.
