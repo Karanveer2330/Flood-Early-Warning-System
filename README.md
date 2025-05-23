@@ -64,11 +64,7 @@ toNatural(img): Converts dB to natural units.
 toDB(img): Converts natural units to dB.
 RefinedLee(img): Applies the Refined Lee speckle filter to reduce SAR noise.
 
-Parameter	Description	Example Value
-ADM2_NAME	District name or AOI	'Ludhiana'
-beforeStart,beforeEnd	Dates before flood event	'2023-04-15','2023-06-10'
-afterStart,afterEnd	Dates after flood event	'2023-06-10','2023-07-23'
-diffThreshold	Ratio threshold for flood detection	1.25
-slopeThreshold	Max slope (%) for flood area masking	5
-connectedPixelThreshold	Minimum connected pixels to retain flood area	8
+Parameters to update for your use case:
+![image](https://github.com/user-attachments/assets/565e7278-dc5f-48e2-9337-0487ddfc5a10)
+
 
